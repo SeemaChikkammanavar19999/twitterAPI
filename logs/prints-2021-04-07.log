@@ -1,0 +1,7 @@
+18:25:59.491 [main] INFO  NewTwitter.Tweet.CreateNewTweet - Indian trends are displayed
+18:25:59.512 [main] INFO  NewTwitter.Tweet.CreateNewTweet - trends in us:
+18:25:59.513 [main] INFO  NewTwitter.Tweet.CreateNewTweet - trends in uk:
+18:25:59.513 [main] INFO  NewTwitter.Tweet.CreateNewTweet - trends in israel:
+18:28:48.363 [main] INFO  NewTwitter.Tweet.TrendHashtag - Indian trends are displayed
+18:28:48.365 [main] INFO  NewTwitter.Tweet.TrendHashtag - trends in us:
+18:28:48.365 [main] INFO  NewTwitter.Tweet.TrendHashtag - trends in uk:

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-06T05:34:32Z" name="Surefire suite" finished-at="2021-04-06T05:34:32Z" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2021-04-06T05:34:32Z" name="Surefire test" finished-at="2021-04-06T05:34:32Z" duration-ms="87">
+      <class name="NewTwitter.Tweet.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:shouldAnswerWithTrue(NewTwitter.Tweet.AppTest)]" started-at="2021-04-06T11:04:32Z" name="shouldAnswerWithTrue" finished-at="2021-04-06T11:04:32Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- NewTwitter.Tweet.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
